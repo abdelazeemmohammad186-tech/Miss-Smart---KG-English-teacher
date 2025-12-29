@@ -1,0 +1,7 @@
+{
+  "name": "Miss Smart - Egyptian KG English Teacher",
+  "description": "An interactive AI-powered virtual teacher for the official Egyptian KG1 and KG2 English curriculum, offering bilingual and immersion teaching modes with curriculum-aligned lessons.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
